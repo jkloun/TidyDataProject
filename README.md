@@ -1,2 +1,0 @@
-# TidyDataProject
-Jared's TidyDataProject
